@@ -1,0 +1,2 @@
+mex -I"/usr/local/include/" -L"/usr/local/lib" -lgsl pg.cpp src/PolyaGamma.cpp src/RNG.cpp src/GRNG.cpp
+mex -I"/usr/local/include/" -L"/usr/local/lib" -lgsl pgep.cpp src/PolyaGamma.cpp src/RNG.cpp src/GRNG.cpp
