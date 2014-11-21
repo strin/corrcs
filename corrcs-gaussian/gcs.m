@@ -102,13 +102,13 @@ function [reX code] = gcs(B, mask, X, graph, W)
 %         plot(B*signal_mu{1}); drawnow; 
 %         beta(1)
         
-        code = reshape(cell2mat(signal_mu), num_dim, num_node);
-        subplot(1,3,1); 
-        plot(B*code(:,1)); drawnow;
-        subplot(1,3,2);
-        plot(B*code(:,2)); drawnow;
-        subplot(1,3,3);
-        plot(X(:,1));
+%         code = reshape(cell2mat(signal_mu), num_dim, num_node);
+%         subplot(1,3,1); 
+%         plot(B*code(:,1)); drawnow;
+%         subplot(1,3,2);
+%         plot(B*code(:,2)); drawnow;
+%         subplot(1,3,3);
+%         plot(X(:,1));
         
 %         mse = sum(sum(mask.*(X-reX).^2))./sum(mask(:));
 %         plot(mean((X-reX).^2)); drawnow;

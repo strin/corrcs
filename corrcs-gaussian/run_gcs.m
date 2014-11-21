@@ -1,21 +1,25 @@
-m_ratio = 0.5;
-bgraph = graph>0.9*max(abs(graph(:)));
-mask = zeros(size(data));
-for ni = 1:size(data,2)
-    mask(randsample(1:m,ceil(m*m_ratio)),ni) = 1;
-end
-if trace(bgraph(1,1).^2) ~= 0
-    bgraph = bgraph.*(ones(size(bgraph))-eye(size(bgraph)));
-end
+% m_ratio = 0.5;
+% bgraph = graph>0.9*max(abs(graph(:)));
+% mask = zeros(size(data));
+% for ni = 1:size(data,2)
+%     mask(randsample(1:m,ceil(m*m_ratio)),ni) = 1;
+% end
+% if trace(bgraph(1,1).^2) ~= 0
+%     bgraph = bgraph.*(ones(size(bgraph))-eye(size(bgraph)));
+% end
+fprintf('ratio = %f', m_ratio);
+
+m = double(m);
+dim = double(dim);
+
 res = cell(m-dim+1);
 nowX = cell(m-dim+1);
 nowMask = cell(m-dim+1);
 for j = 1:m-dim+1
     nowX{j} =  X(:, j:(m-dim+1):end);
-    nowMask{j} = mask(j:j+dim-1,:);
+    nowMask{j} = pymask(j:j+dim-1,:);
 end
-for j = 1:1
-    j
+for j = 1:m-dim+1
     res{j} = gcs(B, nowMask{j}, nowX{j}, bgraph, eye(size(B,2))*10);
 end
 reX_g = zeros(size(X));
