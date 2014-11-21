@@ -1,6 +1,7 @@
 load('polling.mat');
 
 m_ratio = 0.5;
+
 bgraph = graph>0.9*max(abs(graph(:)));
 mask = zeros(size(data));
 for ni = 1:size(data,2)
