@@ -1,0 +1,6 @@
+.DS_STORE
+*.pyc
+*.py.swp
+*.mexmaci64
+*.*~
+*.ipynb_checkpoints
