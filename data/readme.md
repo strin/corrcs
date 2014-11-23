@@ -8,7 +8,7 @@
 
 [Google Visualization](http://www.google.com/publicdata/explore?ds=eq10po6kah9si_&ctype=m&strail=false&bcs=d&nselm=s&met_s=cases_cum&scale_s=lin&ind_s=false&ifdim=district&tunit=D&pit=1412892000000&hl=en&dl=en&ind=false&xMax=-5.891764156250019&xMin=-18.94352196875002&yMax=4.0345925292218&yMin=11.99141057995339&mapType=t&icfg=eq10po6kah9si_%253A2%253Adistrict%26%264:-71:-40:%7Ceq10po6kah9si_%253A2%253Adistrict%26%2611:24:-45:&iconSize=0.47#!ctype=m&strail=false&bcs=d&nselm=s&met_s=cases_cum&scale_s=lin&ind_s=false&ifdim=district&pit=1396454400000&hl=en_US&dl=en&ind=false)
 
-* [Number of Ebola cases in Guinea, Liberia, Sierra Leone, Nigeria, Mali, Spain and USA] (ebola/ebola-data-db-format)
+* [Number of Ebola cases in Guinea, Liberia, Sierra Leone, Nigeria, Mali, Spain and USA] (ebola/ebola-data-db-format.csv)
   * [Homepage] (https://data.hdx.rwlabs.org/dataset/ebola-cases-2014)
 
 * [Number of health-care workers deaths by EVD] (ebola/health-care-workers-deaths.csv)
