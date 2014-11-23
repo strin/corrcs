@@ -19,6 +19,26 @@ def sample(arr, ratio):
   mask = toInt(npr.random(arr.shape) < ratio)
   return mask
 
+def findIndex(arr, condition):
+  """ find indices i of arr such that arr[i] satisfy condition 
+      > input
+        arr: a list
+        condition: a function / lambda.
+  """
+  res = list()
+  for (i, l) in enumerate(arr):
+    if condition(l) == True:
+      res += [i]
+  return res
+
+def findElement(arr, condition):
+  """ find elements in arr that satisfy condition 
+      > input
+        arr: a list
+        condition: a function / lambda.
+  """
+  return np.array(arr)[findIndex(arr, condition)]
+
 def sampleByRow(arr, ratio, lets_replace=False):
   """ sample by row, so that each row has at least one entry sampled. 
       > input
@@ -30,7 +50,8 @@ def sampleByRow(arr, ratio, lets_replace=False):
   arr = np.array(arr)
   mask = np.zeros(arr.shape)
   for ni in range(arr.shape[0]):
-    ind = npr.choice(range(arr.shape[1]), np.ceil(arr.shape[1] * ratio), replace=lets_replace)
+    allind = findIndex(arr[ni], lambda x: x == x)
+    ind = npr.choice(allind, np.ceil(len(allind) * ratio), replace=lets_replace)
     mask[ni][ind] = 1
   return mask
 

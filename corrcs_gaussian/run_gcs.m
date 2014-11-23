@@ -29,7 +29,7 @@ end
 clear res;
 data_c_g =  zeros(size(data));
 data_re_g = zeros(size(data));
-for ni = 1:n
+for ni = 1:nsize
     for j = 1:m-dim+1
         data_c_g(j:j+dim-1,ni) = data_c_g(j:j+dim-1,ni)+1;
         data_re_g(j:j+dim-1,ni) = data_re_g(j:j+dim-1,ni)+reX_g(:, (ni-1)*(m-dim+1)+j);
