@@ -1,0 +1,193 @@
+Country;Case def;Total deaths;Date
+Guinea;Confirmed;19;07-09-14
+Guinea;Probable;8;07-09-14
+Guinea;Suspected;0;07-09-14
+Guinea;All;27;07-09-14
+Liberia;Confirmed;54;07-09-14
+Liberia;Probable;25;07-09-14
+Liberia;Suspected;2;07-09-14
+Liberia;All;81;07-09-14
+Sierra Leone;Confirmed;30;07-09-14
+Sierra Leone;Probable;1;07-09-14
+Sierra Leone;Suspected;0;07-09-14
+Sierra Leone;All;31;07-09-14
+Guinea;Confirmed;22;14-09-14
+Guinea;Probable;8;14-09-14
+Guinea;Suspected;0;14-09-14
+Guinea;All;30;14-09-14
+Liberia;Confirmed;56;14-09-14
+Liberia;Probable;26;14-09-14
+Liberia;Suspected;3;14-09-14
+Liberia;All;85;14-09-14
+Nigeria;Confirmed;5;14-09-14
+Nigeria;Probable;0;14-09-14
+Nigeria;Suspected;0;14-09-14
+Nigeria;All;5;14-09-14
+Sierra Leone;Confirmed;30;14-09-14
+Sierra Leone;Probable;1;14-09-14
+Sierra Leone;Suspected;0;14-09-14
+Sierra Leone;All;31;14-09-14
+Guinea;Confirmed;27;21-09-14
+Guinea;Probable;8;21-09-14
+Guinea;Suspected;0;21-09-14
+Guinea;All;35;21-09-14
+Liberia;Confirmed;57;21-09-14
+Liberia;Probable;26;21-09-14
+Liberia;Suspected;4;21-09-14
+Liberia;All;87;21-09-14
+Nigeria;Confirmed;5;21-09-14
+Nigeria;Probable;0;21-09-14
+Nigeria;Suspected;0;21-09-14
+Nigeria;All;5;21-09-14
+Sierra Leone;Confirmed;78;21-09-14
+Sierra Leone;Probable;2;21-09-14
+Sierra Leone;Suspected;1;21-09-14
+Sierra Leone;All;81;21-09-14
+Guinea;Confirmed;27;28-09-14
+Guinea;Probable;8;28-09-14
+Guinea;Suspected;0;28-09-14
+Guinea;All;35;28-09-14
+Liberia;Confirmed;63;28-09-14
+Liberia;Probable;28;28-09-14
+Liberia;Suspected;4;28-09-14
+Liberia;All;95;28-09-14
+Nigeria;Confirmed;5;28-09-14
+Nigeria;Probable;0;28-09-14
+Nigeria;Suspected;0;28-09-14
+Nigeria;All;5;28-09-14
+Sierra Leone;Confirmed;78;28-09-14
+Sierra Leone;Probable;2;28-09-14
+Sierra Leone;Suspected;1;28-09-14
+Sierra Leone;All;81;28-09-14
+Guinea;Confirmed;32;12-10-14
+Guinea;Probable;8;12-10-14
+Guinea;Suspected;0;12-10-14
+Guinea;All;40;12-10-14
+Liberia;Confirmed;64;12-10-14
+Liberia;Probable;27;12-10-14
+Liberia;Suspected;5;12-10-14
+Liberia;All;96;12-10-14
+Nigeria;Confirmed;5;12-10-14
+Nigeria;Probable;0;12-10-14
+Nigeria;Suspected;0;12-10-14
+Nigeria;All;5;12-10-14
+Sierra Leone;Confirmed;91;12-10-14
+Sierra Leone;Probable;2;12-10-14
+Sierra Leone;Suspected;2;12-10-14
+Sierra Leone;All;95;12-10-14
+Spain;Confirmed;0;12-10-14
+Spain;Probable;;12-10-14
+Spain;Suspected;;12-10-14
+Spain;All;0;12-10-14
+USA;Confirmed;0;12-10-14
+USA;Probable;;12-10-14
+USA;Suspected;;12-10-14
+USA;All;0;12-10-14
+Guinea;Confirmed;33;19-10-14
+Guinea;Probable;8;19-10-14
+Guinea;Suspected;0;19-10-14
+Guinea;All;41;19-10-14
+Liberia;Confirmed;64;19-10-14
+Liberia;Probable;34;19-10-14
+Liberia;Suspected;5;19-10-14
+Liberia;All;103;19-10-14
+Nigeria;Confirmed;5;19-10-14
+Nigeria;Probable;0;19-10-14
+Nigeria;Suspected;0;19-10-14
+Nigeria;All;5;19-10-14
+Sierra Leone;Confirmed;91;19-10-14
+Sierra Leone;Probable;2;19-10-14
+Sierra Leone;Suspected;2;19-10-14
+Sierra Leone;All;95;19-10-14
+Spain;Confirmed;0;19-10-14
+Spain;Probable;;19-10-14
+Spain;Suspected;;19-10-14
+Spain;All;0;19-10-14
+USA;Confirmed;0;19-10-14
+USA;Probable;;19-10-14
+USA;Suspected;;19-10-14
+USA;All;0;19-10-14
+Guinea;Confirmed;;27-10-14
+Guinea;Probable;;27-10-14
+Guinea;Suspected;;27-10-14
+Guinea;All;43;27-10-14
+Liberia;Confirmed;;27-10-14
+Liberia;Probable;;27-10-14
+Liberia;Suspected;;27-10-14
+Liberia;All;123;27-10-14
+Nigeria;Confirmed;;27-10-14
+Nigeria;Probable;;27-10-14
+Nigeria;Suspected;;27-10-14
+Nigeria;All;5;27-10-14
+Sierra Leone;Confirmed;;27-10-14
+Sierra Leone;Probable;;27-10-14
+Sierra Leone;Suspected;;27-10-14
+Sierra Leone;All;101;27-10-14
+Spain;Confirmed;;27-10-14
+Spain;Probable;;27-10-14
+Spain;Suspected;;27-10-14
+Spain;All;0;27-10-14
+USA;Confirmed;;27-10-14
+USA;Probable;;27-10-14
+USA;Suspected;;27-10-14
+USA;All;0;27-10-14
+All;All;269;29-10-14
+Guinea;Confirmed;;02-11-14
+Guinea;Probable;;02-11-14
+Guinea;Suspected;;02-11-14
+Guinea;All;46;02-11-14
+Liberia;Confirmed;;02-11-14
+Liberia;Probable;;02-11-14
+Liberia;Suspected;;02-11-14
+Liberia;All;157;02-11-14
+Nigeria;Confirmed;;02-11-14
+Nigeria;Probable;;02-11-14
+Nigeria;Suspected;;02-11-14
+Nigeria;All;5;02-11-14
+Sierra Leone;Confirmed;;02-11-14
+Sierra Leone;Probable;;02-11-14
+Sierra Leone;Suspected;;02-11-14
+Sierra Leone;All;102;02-11-14
+Spain;Confirmed;;02-11-14
+Spain;Probable;;02-11-14
+Spain;Suspected;;02-11-14
+Spain;All;0;02-11-14
+USA;Confirmed;;02-11-14
+USA;Probable;;02-11-14
+USA;Suspected;;02-11-14
+USA;All;0;02-11-14
+All;All;311;04-11-14
+Guinea;Confirmed;;10-11-14
+Guinea;Probable;;10-11-14
+Guinea;Suspected;;10-11-14
+Guinea;All;51;10-11-14
+Liberia;Confirmed;;10-11-14
+Liberia;Probable;;10-11-14
+Liberia;Suspected;;10-11-14
+Liberia;All;162;10-11-14
+Nigeria;Confirmed;;10-11-14
+Nigeria;Probable;;10-11-14
+Nigeria;Suspected;;10-11-14
+Nigeria;All;;10-11-14
+Sierra Leone;Confirmed;;10-11-14
+Sierra Leone;Probable;;10-11-14
+Sierra Leone;Suspected;;10-11-14
+Sierra Leone;All;102;10-11-14
+All;All;324;14-11-14
+Guinea;Confirmed;;16-11-14
+Guinea;Probable;;16-11-14
+Guinea;Suspected;;16-11-14
+Guinea;All;55;16-11-14
+Liberia;Confirmed;;16-11-14
+Liberia;Probable;;16-11-14
+Liberia;Suspected;;16-11-14
+Liberia;All;170;16-11-14
+Nigeria;Confirmed;;16-11-14
+Nigeria;Probable;;16-11-14
+Nigeria;Suspected;;16-11-14
+Nigeria;All;;16-11-14
+Sierra Leone;Confirmed;;16-11-14
+Sierra Leone;Probable;;16-11-14
+Sierra Leone;Suspected;;16-11-14
+Sierra Leone;All;104;16-11-14
+All;All;337;18-11-14
